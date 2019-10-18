@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using CinemaAStAlvarado.views;
 
 namespace CinemaAStAlvarado
 {
@@ -10,7 +11,7 @@ namespace CinemaAStAlvarado
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new LoginPage());
         }
 
         protected override void OnStart()

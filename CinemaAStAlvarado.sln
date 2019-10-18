@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAStAlvarado.iOS", "Ci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAStAlvarado", "CinemaAStAlvarado\CinemaAStAlvarado.csproj", "{56A92997-D5F9-4229-8379-AE60880D121F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "product.Domain", "..\product.Domain\product.Domain.csproj", "{A4C17857-15E3-4085-B2F8-8AF660008645}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,18 @@ Global
 		{56A92997-D5F9-4229-8379-AE60880D121F}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{56A92997-D5F9-4229-8379-AE60880D121F}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{56A92997-D5F9-4229-8379-AE60880D121F}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Release|iPhone.Build.0 = Release|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{A4C17857-15E3-4085-B2F8-8AF660008645}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
